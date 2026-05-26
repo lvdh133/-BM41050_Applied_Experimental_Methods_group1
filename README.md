@@ -69,9 +69,4 @@ Quasi-static axial loading was applied using the 30-Second Rule (waiting 30 seco
 
 ```text
 F_axial = (M_base + (n_nuts * M_nut)) * g * cos(θ)
-
-```
-
-```
-
 ```
