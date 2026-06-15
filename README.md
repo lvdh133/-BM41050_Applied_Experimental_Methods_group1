@@ -8,6 +8,7 @@ This repository contains the experimental design and statistical analysis script
 * `Results.py`: Processes the raw experimental data, calculates the maximum axial puncture force in Newtons, performs a Two-Way ANOVA, and outputs a 5-panel scientific dashboard for assumption checking and data interpretation.
 * `requirements.txt`: Contains all the necessary Python packages and dependencies required to run the scripts.
 * `Results.png`: Picture of results with experimental data.
+* `Results.v2.png`: Shows an improved version of Results, by adding the 95% error variances in plot C and also added a senstivity analysis plot.
 * `Several SetUp pictures`: To show our setup.
 
 
