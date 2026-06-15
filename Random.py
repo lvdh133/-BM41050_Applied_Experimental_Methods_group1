@@ -266,7 +266,7 @@ f_vals   = [
 ]
 colors = ['#2166ac', '#4dac26', '#2166ac', '#4dac26']
 bars = axes[1, 2].bar(labels, f_vals, color=colors, alpha=0.75, edgecolor='black', linewidth=0.5)
-axes[1, 2].axhline(impor
+axes[1, 2].axhline(
     y=4.49, color='red', linestyle='--', linewidth=1,
     label='F-crit (α=0.05, df=1,16) ≈ 4.49'
 )
